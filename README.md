@@ -1,6 +1,6 @@
 <h1 align='center'>Animation - Credit Card</h1>
 
-![Cards]()
+![Cards](https://github.com/juuliana/AnimationCard/blob/main/src/assets/card1.png)
 
 <h3 align="center">Descritivo:</h3>
 <p align="center">
